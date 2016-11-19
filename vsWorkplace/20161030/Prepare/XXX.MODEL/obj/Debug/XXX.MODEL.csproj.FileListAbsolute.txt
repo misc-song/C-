@@ -1,0 +1,5 @@
+E:\vsWorkplace\20161030\Prepare\XXX.MODEL\bin\Debug\XXX.MODEL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.MODEL\bin\Debug\XXX.MODEL.pdb
+E:\vsWorkplace\20161030\Prepare\XXX.MODEL\obj\Debug\XXX.MODEL.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161030\Prepare\XXX.MODEL\obj\Debug\XXX.MODEL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.MODEL\obj\Debug\XXX.MODEL.pdb

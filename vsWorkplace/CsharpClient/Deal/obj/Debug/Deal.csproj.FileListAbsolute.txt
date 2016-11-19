@@ -1,0 +1,6 @@
+E:\vsWorkplace\CsharpClient\Deal\bin\Debug\Deal.exe.config
+E:\vsWorkplace\CsharpClient\Deal\bin\Debug\Deal.exe
+E:\vsWorkplace\CsharpClient\Deal\bin\Debug\Deal.pdb
+E:\vsWorkplace\CsharpClient\Deal\obj\Debug\Deal.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\CsharpClient\Deal\obj\Debug\Deal.exe
+E:\vsWorkplace\CsharpClient\Deal\obj\Debug\Deal.pdb

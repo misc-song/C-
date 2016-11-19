@@ -1,0 +1,6 @@
+E:\vsWorkplace\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe.config
+E:\vsWorkplace\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe
+E:\vsWorkplace\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.pdb
+E:\vsWorkplace\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.exe
+E:\vsWorkplace\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.pdb

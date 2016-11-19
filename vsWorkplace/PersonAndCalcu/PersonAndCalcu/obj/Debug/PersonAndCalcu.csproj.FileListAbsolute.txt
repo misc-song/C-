@@ -1,0 +1,6 @@
+E:\vsWorkplace\PersonAndCalcu\PersonAndCalcu\bin\Debug\PersonAndCalcu.exe.config
+E:\vsWorkplace\PersonAndCalcu\PersonAndCalcu\bin\Debug\PersonAndCalcu.exe
+E:\vsWorkplace\PersonAndCalcu\PersonAndCalcu\bin\Debug\PersonAndCalcu.pdb
+E:\vsWorkplace\PersonAndCalcu\PersonAndCalcu\obj\Debug\PersonAndCalcu.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\PersonAndCalcu\PersonAndCalcu\obj\Debug\PersonAndCalcu.exe
+E:\vsWorkplace\PersonAndCalcu\PersonAndCalcu\obj\Debug\PersonAndCalcu.pdb

@@ -1,0 +1,6 @@
+E:\vsWorkplace\CsharpClient\geometry\bin\Debug\geometry.exe.config
+E:\vsWorkplace\CsharpClient\geometry\bin\Debug\geometry.exe
+E:\vsWorkplace\CsharpClient\geometry\bin\Debug\geometry.pdb
+E:\vsWorkplace\CsharpClient\geometry\obj\Debug\geometry.exe
+E:\vsWorkplace\CsharpClient\geometry\obj\Debug\geometry.pdb
+E:\vsWorkplace\CsharpClient\geometry\obj\Debug\geometry.csprojResolveAssemblyReference.cache

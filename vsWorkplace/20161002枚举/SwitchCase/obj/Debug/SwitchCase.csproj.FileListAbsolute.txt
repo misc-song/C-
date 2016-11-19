@@ -1,0 +1,5 @@
+E:\vsWorkplace\20161002枚举\SwitchCase\bin\Debug\SwitchCase.exe.config
+E:\vsWorkplace\20161002枚举\SwitchCase\bin\Debug\SwitchCase.exe
+E:\vsWorkplace\20161002枚举\SwitchCase\bin\Debug\SwitchCase.pdb
+E:\vsWorkplace\20161002枚举\SwitchCase\obj\Debug\SwitchCase.exe
+E:\vsWorkplace\20161002枚举\SwitchCase\obj\Debug\SwitchCase.pdb

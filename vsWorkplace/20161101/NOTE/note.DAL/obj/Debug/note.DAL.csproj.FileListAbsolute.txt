@@ -1,0 +1,7 @@
+E:\vsWorkplace\20161101\NOTE\note.DAL\bin\Debug\note.DAL.dll
+E:\vsWorkplace\20161101\NOTE\note.DAL\bin\Debug\note.DAL.pdb
+E:\vsWorkplace\20161101\NOTE\note.DAL\bin\Debug\note.MODEL.dll
+E:\vsWorkplace\20161101\NOTE\note.DAL\bin\Debug\note.MODEL.pdb
+E:\vsWorkplace\20161101\NOTE\note.DAL\obj\Debug\note.DAL.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161101\NOTE\note.DAL\obj\Debug\note.DAL.dll
+E:\vsWorkplace\20161101\NOTE\note.DAL\obj\Debug\note.DAL.pdb

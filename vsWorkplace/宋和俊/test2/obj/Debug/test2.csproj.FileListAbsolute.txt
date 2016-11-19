@@ -1,0 +1,6 @@
+E:\vsWorkplace\宋和俊\test2\bin\Debug\test2.exe.config
+E:\vsWorkplace\宋和俊\test2\bin\Debug\test2.exe
+E:\vsWorkplace\宋和俊\test2\bin\Debug\test2.pdb
+E:\vsWorkplace\宋和俊\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\宋和俊\test2\obj\Debug\test2.exe
+E:\vsWorkplace\宋和俊\test2\obj\Debug\test2.pdb

@@ -1,0 +1,6 @@
+E:\vsWorkplace\struct\struct\bin\Debug\@struct.exe.config
+E:\vsWorkplace\struct\struct\bin\Debug\@struct.exe
+E:\vsWorkplace\struct\struct\bin\Debug\@struct.pdb
+E:\vsWorkplace\struct\struct\obj\Debug\struct.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\struct\struct\obj\Debug\@struct.exe
+E:\vsWorkplace\struct\struct\obj\Debug\@struct.pdb

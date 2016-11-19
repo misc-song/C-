@@ -1,0 +1,6 @@
+E:\vsWorkplace\PeoAndRaabit\PeoAndRaabit\bin\Debug\PeoAndRaabit.exe.config
+E:\vsWorkplace\PeoAndRaabit\PeoAndRaabit\bin\Debug\PeoAndRaabit.exe
+E:\vsWorkplace\PeoAndRaabit\PeoAndRaabit\bin\Debug\PeoAndRaabit.pdb
+E:\vsWorkplace\PeoAndRaabit\PeoAndRaabit\obj\Debug\PeoAndRaabit.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\PeoAndRaabit\PeoAndRaabit\obj\Debug\PeoAndRaabit.exe
+E:\vsWorkplace\PeoAndRaabit\PeoAndRaabit\obj\Debug\PeoAndRaabit.pdb

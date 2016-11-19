@@ -1,0 +1,6 @@
+E:\vsWorkplace\PersonAndAnimal\PersonAndAnimal\bin\Debug\PersonAndAnimal.exe.config
+E:\vsWorkplace\PersonAndAnimal\PersonAndAnimal\bin\Debug\PersonAndAnimal.exe
+E:\vsWorkplace\PersonAndAnimal\PersonAndAnimal\bin\Debug\PersonAndAnimal.pdb
+E:\vsWorkplace\PersonAndAnimal\PersonAndAnimal\obj\Debug\PersonAndAnimal.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\PersonAndAnimal\PersonAndAnimal\obj\Debug\PersonAndAnimal.exe
+E:\vsWorkplace\PersonAndAnimal\PersonAndAnimal\obj\Debug\PersonAndAnimal.pdb

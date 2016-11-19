@@ -1,0 +1,6 @@
+E:\vsWorkplace\HomeWork3\Part2\bin\Debug\Part2.exe.config
+E:\vsWorkplace\HomeWork3\Part2\bin\Debug\Part2.exe
+E:\vsWorkplace\HomeWork3\Part2\bin\Debug\Part2.pdb
+E:\vsWorkplace\HomeWork3\Part2\obj\Debug\Part2.exe
+E:\vsWorkplace\HomeWork3\Part2\obj\Debug\Part2.pdb
+E:\vsWorkplace\HomeWork3\Part2\obj\Debug\Part2.csprojResolveAssemblyReference.cache

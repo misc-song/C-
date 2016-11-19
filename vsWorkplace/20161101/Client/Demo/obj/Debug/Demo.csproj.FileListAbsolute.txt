@@ -1,0 +1,6 @@
+E:\vsWorkplace\20161101\Client\Demo\bin\Demo.dll.config
+E:\vsWorkplace\20161101\Client\Demo\bin\Demo.dll
+E:\vsWorkplace\20161101\Client\Demo\bin\Demo.pdb
+E:\vsWorkplace\20161101\Client\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161101\Client\Demo\obj\Debug\Demo.dll
+E:\vsWorkplace\20161101\Client\Demo\obj\Debug\Demo.pdb

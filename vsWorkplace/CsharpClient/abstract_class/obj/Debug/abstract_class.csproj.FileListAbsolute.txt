@@ -1,0 +1,5 @@
+E:\vsWorkplace\CsharpClient\abstract_class\bin\Debug\abstract_class.exe.config
+E:\vsWorkplace\CsharpClient\abstract_class\bin\Debug\abstract_class.exe
+E:\vsWorkplace\CsharpClient\abstract_class\bin\Debug\abstract_class.pdb
+E:\vsWorkplace\CsharpClient\abstract_class\obj\Debug\abstract_class.exe
+E:\vsWorkplace\CsharpClient\abstract_class\obj\Debug\abstract_class.pdb

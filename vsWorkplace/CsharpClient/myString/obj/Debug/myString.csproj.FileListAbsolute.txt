@@ -1,0 +1,5 @@
+E:\vsWorkplace\CsharpClient\myString\bin\Debug\myString.exe.config
+E:\vsWorkplace\CsharpClient\myString\bin\Debug\myString.exe
+E:\vsWorkplace\CsharpClient\myString\bin\Debug\myString.pdb
+E:\vsWorkplace\CsharpClient\myString\obj\Debug\myString.exe
+E:\vsWorkplace\CsharpClient\myString\obj\Debug\myString.pdb

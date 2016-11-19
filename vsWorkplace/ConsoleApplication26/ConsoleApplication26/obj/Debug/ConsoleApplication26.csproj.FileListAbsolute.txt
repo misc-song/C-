@@ -1,0 +1,6 @@
+E:\vsWorkplace\ConsoleApplication26\ConsoleApplication26\bin\Debug\ConsoleApplication26.exe.config
+E:\vsWorkplace\ConsoleApplication26\ConsoleApplication26\obj\Debug\ConsoleApplication26.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\ConsoleApplication26\ConsoleApplication26\bin\Debug\ConsoleApplication26.exe
+E:\vsWorkplace\ConsoleApplication26\ConsoleApplication26\bin\Debug\ConsoleApplication26.pdb
+E:\vsWorkplace\ConsoleApplication26\ConsoleApplication26\obj\Debug\ConsoleApplication26.exe
+E:\vsWorkplace\ConsoleApplication26\ConsoleApplication26\obj\Debug\ConsoleApplication26.pdb

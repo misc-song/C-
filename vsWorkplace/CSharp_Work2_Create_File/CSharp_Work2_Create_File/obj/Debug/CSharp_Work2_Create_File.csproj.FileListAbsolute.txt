@@ -1,0 +1,6 @@
+E:\vsWorkplace\CSharp_Work2_Create_File\CSharp_Work2_Create_File\bin\Debug\CSharp_Work2_Create_File.exe.config
+E:\vsWorkplace\CSharp_Work2_Create_File\CSharp_Work2_Create_File\bin\Debug\CSharp_Work2_Create_File.exe
+E:\vsWorkplace\CSharp_Work2_Create_File\CSharp_Work2_Create_File\bin\Debug\CSharp_Work2_Create_File.pdb
+E:\vsWorkplace\CSharp_Work2_Create_File\CSharp_Work2_Create_File\obj\Debug\CSharp_Work2_Create_File.exe
+E:\vsWorkplace\CSharp_Work2_Create_File\CSharp_Work2_Create_File\obj\Debug\CSharp_Work2_Create_File.pdb
+E:\vsWorkplace\CSharp_Work2_Create_File\CSharp_Work2_Create_File\obj\Debug\CSharp_Work2_Create_File.csprojResolveAssemblyReference.cache

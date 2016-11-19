@@ -1,0 +1,9 @@
+E:\vsWorkplace\MMS\MMS.BLL\bin\Debug\MMS.BLL.dll
+E:\vsWorkplace\MMS\MMS.BLL\bin\Debug\MMS.BLL.pdb
+E:\vsWorkplace\MMS\MMS.BLL\bin\Debug\MMS.DAL.dll
+E:\vsWorkplace\MMS\MMS.BLL\bin\Debug\MMS.Model.dll
+E:\vsWorkplace\MMS\MMS.BLL\bin\Debug\MMS.DAL.pdb
+E:\vsWorkplace\MMS\MMS.BLL\bin\Debug\MMS.Model.pdb
+E:\vsWorkplace\MMS\MMS.BLL\obj\Debug\MMS.BLL.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\MMS\MMS.BLL\obj\Debug\MMS.BLL.dll
+E:\vsWorkplace\MMS\MMS.BLL\obj\Debug\MMS.BLL.pdb

@@ -1,0 +1,9 @@
+E:\vsWorkplace\Demo\Myform\bin\Debug\Myform.exe.config
+E:\vsWorkplace\Demo\Myform\bin\Debug\Myform.exe
+E:\vsWorkplace\Demo\Myform\bin\Debug\Myform.pdb
+E:\vsWorkplace\Demo\Myform\obj\Debug\Myform.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\Demo\Myform\obj\Debug\Myform.Form1.resources
+E:\vsWorkplace\Demo\Myform\obj\Debug\Myform.Properties.Resources.resources
+E:\vsWorkplace\Demo\Myform\obj\Debug\Myform.csproj.GenerateResource.Cache
+E:\vsWorkplace\Demo\Myform\obj\Debug\Myform.exe
+E:\vsWorkplace\Demo\Myform\obj\Debug\Myform.pdb

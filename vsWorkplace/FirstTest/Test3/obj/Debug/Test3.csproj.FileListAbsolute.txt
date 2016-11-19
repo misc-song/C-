@@ -1,0 +1,5 @@
+E:\vsWorkplace\FirstTest\Test3\bin\Debug\Test3.exe.config
+E:\vsWorkplace\FirstTest\Test3\bin\Debug\Test3.exe
+E:\vsWorkplace\FirstTest\Test3\bin\Debug\Test3.pdb
+E:\vsWorkplace\FirstTest\Test3\obj\Debug\Test3.exe
+E:\vsWorkplace\FirstTest\Test3\obj\Debug\Test3.pdb

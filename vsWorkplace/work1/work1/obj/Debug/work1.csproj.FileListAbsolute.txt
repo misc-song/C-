@@ -1,0 +1,6 @@
+E:\vsWorkplace\work1\work1\bin\Debug\work1.exe.config
+E:\vsWorkplace\work1\work1\bin\Debug\work1.exe
+E:\vsWorkplace\work1\work1\bin\Debug\work1.pdb
+E:\vsWorkplace\work1\work1\obj\Debug\work1.exe
+E:\vsWorkplace\work1\work1\obj\Debug\work1.pdb
+E:\vsWorkplace\work1\work1\obj\Debug\work1.csprojResolveAssemblyReference.cache

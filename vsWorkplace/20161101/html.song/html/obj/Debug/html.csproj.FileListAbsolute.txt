@@ -1,0 +1,6 @@
+E:\vsWorkplace\20161101\html.song\html\bin\html.dll.config
+E:\vsWorkplace\20161101\html.song\html\bin\html.dll
+E:\vsWorkplace\20161101\html.song\html\bin\html.pdb
+E:\vsWorkplace\20161101\html.song\html\obj\Debug\html.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161101\html.song\html\obj\Debug\html.dll
+E:\vsWorkplace\20161101\html.song\html\obj\Debug\html.pdb

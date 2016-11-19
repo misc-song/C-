@@ -1,0 +1,9 @@
+E:\vsWorkplace\20161101\NOTE\note.BIL\obj\Debug\note.BIL.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161101\NOTE\note.BIL\bin\Debug\note.BIL.dll
+E:\vsWorkplace\20161101\NOTE\note.BIL\bin\Debug\note.BIL.pdb
+E:\vsWorkplace\20161101\NOTE\note.BIL\bin\Debug\note.DAL.dll
+E:\vsWorkplace\20161101\NOTE\note.BIL\bin\Debug\note.MODEL.dll
+E:\vsWorkplace\20161101\NOTE\note.BIL\bin\Debug\note.DAL.pdb
+E:\vsWorkplace\20161101\NOTE\note.BIL\bin\Debug\note.MODEL.pdb
+E:\vsWorkplace\20161101\NOTE\note.BIL\obj\Debug\note.BIL.dll
+E:\vsWorkplace\20161101\NOTE\note.BIL\obj\Debug\note.BIL.pdb

@@ -1,0 +1,5 @@
+E:\vsWorkplace\CsharpClient\CsharpClient\bin\Debug\CsharpClient.exe.config
+E:\vsWorkplace\CsharpClient\CsharpClient\bin\Debug\CsharpClient.exe
+E:\vsWorkplace\CsharpClient\CsharpClient\bin\Debug\CsharpClient.pdb
+E:\vsWorkplace\CsharpClient\CsharpClient\obj\Debug\CsharpClient.exe
+E:\vsWorkplace\CsharpClient\CsharpClient\obj\Debug\CsharpClient.pdb

@@ -1,0 +1,7 @@
+E:\vsWorkplace\MMS\MMS.DAL\bin\Debug\MMS.DAL.dll
+E:\vsWorkplace\MMS\MMS.DAL\bin\Debug\MMS.DAL.pdb
+E:\vsWorkplace\MMS\MMS.DAL\bin\Debug\MMS.Model.dll
+E:\vsWorkplace\MMS\MMS.DAL\bin\Debug\MMS.Model.pdb
+E:\vsWorkplace\MMS\MMS.DAL\obj\Debug\MMS.DAL.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\MMS\MMS.DAL\obj\Debug\MMS.DAL.dll
+E:\vsWorkplace\MMS\MMS.DAL\obj\Debug\MMS.DAL.pdb

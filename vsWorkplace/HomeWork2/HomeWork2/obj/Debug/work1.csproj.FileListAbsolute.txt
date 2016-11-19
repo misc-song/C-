@@ -1,0 +1,5 @@
+E:\vsWorkplace\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+E:\vsWorkplace\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+E:\vsWorkplace\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+E:\vsWorkplace\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+E:\vsWorkplace\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb

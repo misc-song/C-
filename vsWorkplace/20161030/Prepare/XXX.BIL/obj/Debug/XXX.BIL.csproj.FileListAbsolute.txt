@@ -1,0 +1,9 @@
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\obj\Debug\XXX.BIL.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\bin\Debug\XXX.BIL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\bin\Debug\XXX.BIL.pdb
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\bin\Debug\XXX.DAL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\bin\Debug\XXX.MODEL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\bin\Debug\XXX.DAL.pdb
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\bin\Debug\XXX.MODEL.pdb
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\obj\Debug\XXX.BIL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.BIL\obj\Debug\XXX.BIL.pdb

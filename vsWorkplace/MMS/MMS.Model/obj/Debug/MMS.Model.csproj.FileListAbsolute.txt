@@ -1,0 +1,5 @@
+E:\vsWorkplace\MMS\MMS.Model\bin\Debug\MMS.Model.dll
+E:\vsWorkplace\MMS\MMS.Model\bin\Debug\MMS.Model.pdb
+E:\vsWorkplace\MMS\MMS.Model\obj\Debug\MMS.Model.dll
+E:\vsWorkplace\MMS\MMS.Model\obj\Debug\MMS.Model.pdb
+E:\vsWorkplace\MMS\MMS.Model\obj\Debug\MMS.Model.csprojResolveAssemblyReference.cache

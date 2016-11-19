@@ -1,0 +1,6 @@
+E:\vsWorkplace\PersonAndAnimal\ActorAndAttress\bin\Debug\ActorAndAttress.exe.config
+E:\vsWorkplace\PersonAndAnimal\ActorAndAttress\bin\Debug\ActorAndAttress.exe
+E:\vsWorkplace\PersonAndAnimal\ActorAndAttress\bin\Debug\ActorAndAttress.pdb
+E:\vsWorkplace\PersonAndAnimal\ActorAndAttress\obj\Debug\ActorAndAttress.exe
+E:\vsWorkplace\PersonAndAnimal\ActorAndAttress\obj\Debug\ActorAndAttress.pdb
+E:\vsWorkplace\PersonAndAnimal\ActorAndAttress\obj\Debug\ActorAndAttress.csprojResolveAssemblyReference.cache

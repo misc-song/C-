@@ -1,0 +1,13 @@
+E:\vsWorkplace\20161101\20121103\20121103\bin\Debug\20121103.exe.config
+E:\vsWorkplace\20161101\20121103\20121103\bin\Debug\20121103.exe
+E:\vsWorkplace\20161101\20121103\20121103\bin\Debug\20121103.pdb
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\20121103.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\MainWindow.baml
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\MainWindow.g.cs
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\App.g.cs
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\20121103_MarkupCompile.cache
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\20121103.g.resources
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\_20121103.Properties.Resources.resources
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\20121103.csproj.GenerateResource.Cache
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\20121103.exe
+E:\vsWorkplace\20161101\20121103\20121103\obj\Debug\20121103.pdb

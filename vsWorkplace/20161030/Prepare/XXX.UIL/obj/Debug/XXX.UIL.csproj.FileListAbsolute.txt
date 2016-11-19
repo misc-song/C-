@@ -1,0 +1,10 @@
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\bin\Debug\XXX.UIL.exe.config
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\bin\Debug\XXX.UIL.exe
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\bin\Debug\XXX.UIL.pdb
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\bin\Debug\XXX.BIL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\bin\Debug\XXX.MODEL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\bin\Debug\XXX.BIL.pdb
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\bin\Debug\XXX.MODEL.pdb
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\obj\Debug\XXX.UIL.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\obj\Debug\XXX.UIL.exe
+E:\vsWorkplace\20161030\Prepare\XXX.UIL\obj\Debug\XXX.UIL.pdb

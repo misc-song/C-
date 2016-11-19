@@ -1,0 +1,6 @@
+E:\vsWorkplace\CsharpClient\retangle\bin\Debug\retangle.exe.config
+E:\vsWorkplace\CsharpClient\retangle\bin\Debug\retangle.exe
+E:\vsWorkplace\CsharpClient\retangle\bin\Debug\retangle.pdb
+E:\vsWorkplace\CsharpClient\retangle\obj\Debug\retangle.exe
+E:\vsWorkplace\CsharpClient\retangle\obj\Debug\retangle.pdb
+E:\vsWorkplace\CsharpClient\retangle\obj\Debug\retangle.csprojResolveAssemblyReference.cache

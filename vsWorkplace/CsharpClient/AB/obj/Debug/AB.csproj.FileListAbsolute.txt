@@ -1,0 +1,6 @@
+E:\vsWorkplace\CsharpClient\AB\bin\Debug\AB.exe.config
+E:\vsWorkplace\CsharpClient\AB\bin\Debug\AB.exe
+E:\vsWorkplace\CsharpClient\AB\bin\Debug\AB.pdb
+E:\vsWorkplace\CsharpClient\AB\obj\Debug\AB.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\CsharpClient\AB\obj\Debug\AB.exe
+E:\vsWorkplace\CsharpClient\AB\obj\Debug\AB.pdb

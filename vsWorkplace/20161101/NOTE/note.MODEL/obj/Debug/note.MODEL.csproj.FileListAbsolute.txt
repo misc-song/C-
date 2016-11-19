@@ -1,0 +1,4 @@
+E:\vsWorkplace\20161101\NOTE\note.MODEL\bin\Debug\note.MODEL.dll
+E:\vsWorkplace\20161101\NOTE\note.MODEL\bin\Debug\note.MODEL.pdb
+E:\vsWorkplace\20161101\NOTE\note.MODEL\obj\Debug\note.MODEL.dll
+E:\vsWorkplace\20161101\NOTE\note.MODEL\obj\Debug\note.MODEL.pdb

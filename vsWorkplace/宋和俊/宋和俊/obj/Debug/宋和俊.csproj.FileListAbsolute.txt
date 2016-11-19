@@ -1,0 +1,6 @@
+E:\vsWorkplace\宋和俊\宋和俊\bin\Debug\宋和俊.exe.config
+E:\vsWorkplace\宋和俊\宋和俊\bin\Debug\宋和俊.exe
+E:\vsWorkplace\宋和俊\宋和俊\bin\Debug\宋和俊.pdb
+E:\vsWorkplace\宋和俊\宋和俊\obj\Debug\宋和俊.exe
+E:\vsWorkplace\宋和俊\宋和俊\obj\Debug\宋和俊.pdb
+E:\vsWorkplace\宋和俊\宋和俊\obj\Debug\宋和俊.csprojResolveAssemblyReference.cache

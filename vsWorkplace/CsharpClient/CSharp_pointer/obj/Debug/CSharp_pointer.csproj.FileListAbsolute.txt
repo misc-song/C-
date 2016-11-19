@@ -1,0 +1,6 @@
+E:\vsWorkplace\CsharpClient\CSharp_pointer\bin\Debug\CSharp_pointer.exe.config
+E:\vsWorkplace\CsharpClient\CSharp_pointer\obj\Debug\CSharp_pointer.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\CsharpClient\CSharp_pointer\bin\Debug\CSharp_pointer.exe
+E:\vsWorkplace\CsharpClient\CSharp_pointer\bin\Debug\CSharp_pointer.pdb
+E:\vsWorkplace\CsharpClient\CSharp_pointer\obj\Debug\CSharp_pointer.exe
+E:\vsWorkplace\CsharpClient\CSharp_pointer\obj\Debug\CSharp_pointer.pdb

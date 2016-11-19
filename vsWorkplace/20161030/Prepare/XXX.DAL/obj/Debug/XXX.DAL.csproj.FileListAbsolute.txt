@@ -1,0 +1,5 @@
+E:\vsWorkplace\20161030\Prepare\XXX.DAL\bin\Debug\XXX.DAL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.DAL\bin\Debug\XXX.DAL.pdb
+E:\vsWorkplace\20161030\Prepare\XXX.DAL\obj\Debug\XXX.DAL.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\20161030\Prepare\XXX.DAL\obj\Debug\XXX.DAL.dll
+E:\vsWorkplace\20161030\Prepare\XXX.DAL\obj\Debug\XXX.DAL.pdb

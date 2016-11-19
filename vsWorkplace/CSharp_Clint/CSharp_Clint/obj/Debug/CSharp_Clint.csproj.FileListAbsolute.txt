@@ -1,0 +1,6 @@
+E:\vsWorkplace\CSharp_Clint\CSharp_Clint\bin\Debug\CSharp_Clint.exe.config
+E:\vsWorkplace\CSharp_Clint\CSharp_Clint\obj\Debug\CSharp_Clint.csprojResolveAssemblyReference.cache
+E:\vsWorkplace\CSharp_Clint\CSharp_Clint\bin\Debug\CSharp_Clint.exe
+E:\vsWorkplace\CSharp_Clint\CSharp_Clint\bin\Debug\CSharp_Clint.pdb
+E:\vsWorkplace\CSharp_Clint\CSharp_Clint\obj\Debug\CSharp_Clint.exe
+E:\vsWorkplace\CSharp_Clint\CSharp_Clint\obj\Debug\CSharp_Clint.pdb

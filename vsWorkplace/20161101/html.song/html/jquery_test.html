@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //$('tr:even').addClass('alt');//选择偶数并添加一个类
+            //$('tr:odd').addClass('clt');//选择奇数行
+            //$('tr:eq(1)').addClass('odd');//使用eq()选择器来选择行索引
+            //$('tr:eq(3)').addClass('odd');
+            //$('tr:eq(0)').addClass('even');
+            //$('tr:eq(2)').addClass('even');
+            //$('tr:eq(4)').addClass('even');
+            //$('td:contains(comedy)').addClass('even');//内容包含选择器
+            $('td:not(:contains(comedy))').addClass('even');//内容不包含选择器
+        })
+    </script>
+    <style>
+        tr {
+            background-color: #fff;
+            border: 1px red solid;
+        }
+
+        td {
+            border: 1px red solid;
+        }
+
+        .even {
+            background-color: #ccc;
+        }
+
+        .odd {
+            background-color: red;
+        }
+
+        table {
+            border: 1px solid;
+        }
+    </style>
+</head>
+<body>
+    <h2>莎士比亚</h2>
+    <table>
+        <tr>
+            <td>生活是多么的美好</td>
+            <td>comedy</td>
+            <td>happy</td>
+        </tr>
+        <tr>
+            <td>生活是多么的美好</td>
+            <td>comedy</td>
+            <td>happy</td>
+        </tr>
+        <tr>
+            <td>生活是多么的美好</td>
+            <td>comedy</td>
+            <td>happy</td>
+        </tr>
+        <tr>
+            <td>生活是多么的美好</td>
+            <td>comedy</td>
+            <td>happy</td>
+        </tr>
+        <tr>
+            <td>生活是多么的美好</td>
+            <td>comedy</td>
+            <td>happy</td>
+        </tr>
+    </table>
+</body>
+</html>
